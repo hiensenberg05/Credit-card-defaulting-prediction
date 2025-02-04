@@ -1,4 +1,4 @@
-#Bank Defaulter Risk 
+
 Bank Defaulter Risk Prediction Model
 Behavioural Score Probability Prediction for Defaulting Customers
 
